@@ -14,11 +14,6 @@
  *  VULNERABILITY TYPE:
  *    - Buffer Overflow / Input Validation Weakness
  *
- *  CVE REFERENCE (educational context):
- *    - CVE-2025-12345 (Hypothetical Example)
- *      * Description: Buffer overflow due to unchecked memcpy/strcpy.
- *      * Impact: Memory corruption, program crash, or arbitrary code execution.
- *
  *  COMPILATION:
  *    gcc -Wall -Wextra -O2 drbb_heap_overflow_lenfield.c -o drbb_heap_overflow_lenfield
  *
